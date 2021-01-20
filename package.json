@@ -1,0 +1,22 @@
+{
+  "name": "yankue-db",
+  "version": "1.0.0",
+  "description": "A very easy, simple database system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yankue/yankue-db.git"
+  },
+  "keywords": [
+    "database"
+  ],
+  "author": "Yankue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yankue/yankue-db/issues"
+  },
+  "homepage": "https://github.com/yankue/yankue-db#readme"
+}
